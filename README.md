@@ -1,6 +1,6 @@
 ### B2c Mpesa API using Node.js
 
-- Clone the repository.
+- Clone the repository
 
 - Ensure that you have the following installed on your computer:
 
